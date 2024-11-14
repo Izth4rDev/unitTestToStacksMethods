@@ -1,14 +1,16 @@
-## 1-Crear un stack
-## 2-hacer push al stack
-## 3-obtener size de stack nuevo
-## 4-hacer  push y size
-## 5-hacer push, push y size
-## 6-hacer pop
-## 7-hacer push y pop
-## 8-hacer peek
-## 9-hacer push, peek y size
-## 10-hacer push, push, pop, pop
-## 11-hacer push,pop,push,pop
-## 12-max size
-## 13-push(maxsize)+1
-## 14-aseguranos que al hacer push el valor ingresado no este repetido
+# Stack testing requiriments
+
+## Create un stack
+## Do push to the stack
+## Obtain size from a new stack
+## Do push and Size to the stack
+## Do push, push and size to the stack
+## Do pop
+## Do push and pop to the stack
+## Do peek to the stack
+## Do push, peek and size to the stack
+## Do push, push, pop and pop to the stack
+## Do push, pop, push, pop to the stack
+## setup maxSize to the stack
+## make sure maxSize + 1 trigger an exception.
+## make sure that when pushing a value this value is not in the stack
